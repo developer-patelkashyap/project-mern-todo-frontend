@@ -1,0 +1,20 @@
+/* Login Page */
+
+/* #LoginForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#LoginForm form {
+    width: 350px;
+}
+
+#LoginForm form #LoginButton {
+  width: 100%;
+} */
+
+#RegistrationForm label.form-label {
+    display: block !important;
+}
